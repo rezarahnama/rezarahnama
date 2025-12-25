@@ -20,7 +20,6 @@
 I'm a developer with **8+ years of programming experience**, mostly working with **PHP**, **JavaScript**, and **Python**.  
 I’m also involved in **research on Artificial Intelligence and CFD (Computational Fluid Dynamics)**, and I’m deeply interested in **Data Science**—especially when it connects real-world physics with learning-based models.
 
-> Most of my current projects are private, but I’m happy to share demos or discuss details if you're interested.
 
 ---
 
@@ -59,33 +58,10 @@ I’m also involved in **research on Artificial Intelligence and CFD (Computatio
 - 🧩 Building tools and workflows that make simulations + data pipelines smoother
 - 📚 Exploring data-driven modeling and scientific computing patterns
 
----
-
-## GitHub stats
-
-<!-- Works even if most repos are private -->
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=rezarahnama&show_icons=true&hide_title=true" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rezarahnama" />
-</p>
-
----
-
-## Featured work (selected)
-
-Since most of my repos are private, here are a few highlights (high-level):
-
-- **Private Project A** — Short description (role, stack, impact)
-- **Private Project B** — Short description (role, stack, impact)
-- **Private Research/Experiment** — Short description (what you explored, result)
 
 ---
 
 ## Contact
 
-- GitHub: https://github.com/rezarahnama
-- (Optional) LinkedIn: <add-your-link>
-- (Optional) Email: <add-your-email>
+- GitHub: [Reza Rahnama](https://github.com/rezarahnama)
+- LinkedIn: [Reza Rahnama](https://www.linkedin.com/in/reza-rahnama/)
