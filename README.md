@@ -1,5 +1,6 @@
-![Metrics](./metrics.svg)
-
+<p align="center">
+  ![Metrics](./metrics.svg)
+</p>
 
 <h1 align="center">Hi, I'm Reza Rahnama 👋</h1>
 
